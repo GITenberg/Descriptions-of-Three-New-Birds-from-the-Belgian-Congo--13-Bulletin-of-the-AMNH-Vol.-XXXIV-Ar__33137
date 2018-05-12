@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36227'
     url: http://www.gutenberg.org/2009/agents/36227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33137#Descriptions-of-Three-New-Birds-from-the-Belgian-Congo--13-Bulletin-of-the-AMNH-Vol.-XXXIV-Ar_
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
